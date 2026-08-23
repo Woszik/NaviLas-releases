@@ -1,10 +1,10 @@
 {
-  "versionCode": 7,
-  "versionName": "0.5.5-saved-backup",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.5-saved-backup/navilas-0.5.5-saved-backup.apk",
-  "sha256": "78153828e5556701e433d645539afd81bc0291e5ca59581bf6e43f8e298d39fa",
-  "releaseNotes": "Add saved points export/import backup for reinstall recovery.",
+  "versionCode": 8,
+  "versionName": "0.5.6-update-cache",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.6-update-cache/navilas-0.5.6-update-cache.apk",
+  "sha256": "0374500e705d59b779a9dc72d54648a853c2adbd178da9906cdd4a224323f63c",
+  "releaseNotes": "Bypass CDN cache when checking for app updates.",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-08-23T07:30:16Z"
+  "publishedAt": "2026-08-23T07:46:24Z"
 }
