@@ -1,10 +1,10 @@
 {
-  "versionCode": 2,
-  "versionName": "0.5.0-app-update",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.0-app-update/navilas-0.5.0-app-update.apk",
-  "sha256": "44c44cca59c0333a8e21d698727d0ea06405213868d337dcef47b458cb21bfd3",
-  "releaseNotes": "Fix CI keystore path for release signing.  Gradle resolves RELEASE_KEYSTORE_PATH relative to the app module, so decode the keystore into app/release.keystore in the release workflow.  Co-authored-by: Cursor <cursoragent@cursor.com> ",
+  "versionCode": 3,
+  "versionName": "0.5.1-page-nav",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.1-page-nav/navilas-0.5.1-page-nav.apk",
+  "sha256": "7afd254d4ed31b60bca2620248f9c119858c25dcee618d7779be1a23f6ca7273",
+  "releaseNotes": "Add chrome page swipe and footer arrows; release 0.5.1.  Enable left/right navigation via toolbar/footer swipe and chevron buttons so the GitHub-installed build can update past 0.5.0.  Co-authored-by: Cursor <cursoragent@cursor.com> ",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-08-22T17:01:57Z"
+  "publishedAt": "2026-08-23T04:37:58Z"
 }
