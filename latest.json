@@ -1,10 +1,10 @@
 {
-  "versionCode": 6,
-  "versionName": "0.5.4-install-session",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.4-install-session/navilas-0.5.4-install-session.apk",
-  "sha256": "0fe205e87934089a6961d65a6923fbb09d9aa34b076d7fc06173026cf427e837",
-  "releaseNotes": "• Płynniejsza instalacja aktualizacji (PackageInstaller) • Jeden ciągły dialog: pobieranie → instalowanie, bez migania",
+  "versionCode": 7,
+  "versionName": "0.5.5-saved-backup",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.5-saved-backup/navilas-0.5.5-saved-backup.apk",
+  "sha256": "78153828e5556701e433d645539afd81bc0291e5ca59581bf6e43f8e298d39fa",
+  "releaseNotes": "Add saved points export/import backup for reinstall recovery.",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-08-23T05:39:22Z"
+  "publishedAt": "2026-08-23T07:30:16Z"
 }
