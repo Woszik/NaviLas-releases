@@ -1,10 +1,10 @@
 {
-  "versionCode": 4,
-  "versionName": "0.5.2-update-check",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.2-update-check/navilas-0.5.2-update-check.apk",
-  "sha256": "4b7af4e7612afb29f7bdcd23145f81ceece899e438771708f472da6100f80446",
-  "releaseNotes": "• Sprawdzanie aktualizacji przy każdym starcie aplikacji • Brak komunikatu, gdy masz już najnowszą wersję • Dialog tylko gdy jest update (Aktualizuj / Później)",
+  "versionCode": 5,
+  "versionName": "0.5.3-update-ui",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.3-update-ui/navilas-0.5.3-update-ui.apk",
+  "sha256": "9967f024d0194ac282965f8932991e4a48449316bbd3270ed92e555eba54dc13",
+  "releaseNotes": "• Stabilniejsza aktualizacja: bez migania okienek • Uprawnienie do instalacji przed pobraniem APK • Jedna ścieżka instalacji po powrocie z ustawień",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-08-23T04:58:53Z"
+  "publishedAt": "2026-08-23T05:18:48Z"
 }
