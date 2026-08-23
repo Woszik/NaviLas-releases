@@ -5,7 +5,20 @@ Oficjalne, publiczne wydania aplikacji **NaviLas** (Android).
 **Adres tego repozytorium (do przekazania testerom):**  
 https://github.com/Woszik/NaviLas-releases
 
-Kod źródłowy pozostaje w prywatnym repozytorium. Tutaj są tylko opis, pliki APK i manifest aktualizacji.
+**Kod źródłowy (GPL-3.0):** https://github.com/Woszik/NaviLas
+
+Tutaj są opis, pliki APK z kanału **GitHub** i manifest auto-update. Równolegle przygotowywany jest kanał **F-Droid** (osobna instalacja, inny podpis).
+
+---
+
+## GitHub vs F-Droid
+
+| Kanał | Skąd instalować | Aktualizacje |
+|-------|-----------------|--------------|
+| **GitHub** (ten repo) | [Releases](https://github.com/Woszik/NaviLas-releases/releases) | In-app przy starcie lub „Sprawdź aktualizacje” |
+| **F-Droid** | Klient F-Droid (po wejściu do katalogu) | Tylko F-Droid |
+
+**Nie przełączaj kanałów na jednym telefonie bez kopii zapasowej** — APK mają różne podpisy. Przed zmianą: **Lista → Zapisane → Kopia → Eksportuj**.
 
 ---
 
@@ -30,7 +43,7 @@ NaviLas pomaga znaleźć **miejsca odpoczynku w lasach** (dane BDL / „Czas w L
 
 ---
 
-## Instalacja (pierwszy raz)
+## Instalacja z GitHub (pierwszy raz)
 
 1. Otwórz na telefonie: https://github.com/Woszik/NaviLas-releases  
 2. Wejdź w **[Releases](https://github.com/Woszik/NaviLas-releases/releases)** i pobierz najnowszy plik `navilas-*.apk`.  
@@ -52,7 +65,7 @@ Nie instaluj NaviLas z innych, nieoficjalnych stron.
 
 ---
 
-## Aktualizacje
+## Aktualizacje (kanał GitHub)
 
 Po pierwszej instalacji z tego repozytorium:
 
@@ -81,26 +94,34 @@ Plik kopii **nie jest wysyłany automatycznie** nigdzie poza Twoim urządzeniem.
 
 ---
 
+## Licencja
+
+NaviLas — Copyright (C) 2026 Woszik.  
+Program na licencji **GNU GPL v3**. Pełny tekst: https://github.com/Woszik/NaviLas/blob/main/LICENSE
+
+---
+
 ## Pliki w tym repo
 
 | Element | Opis |
 |---------|------|
-| [Releases](https://github.com/Woszik/NaviLas-releases/releases) | Historia wersji i pliki `navilas-*.apk` |
-| [`latest.json`](https://github.com/Woszik/NaviLas-releases/blob/main/latest.json) | Manifest używany przez aplikację do auto-update |
+| [Releases](https://github.com/Woszik/NaviLas-releases/releases) | Historia wersji i pliki `navilas-*.apk` (kanał GitHub) |
+| [`latest.json`](https://github.com/Woszik/NaviLas-releases/blob/main/latest.json) | Manifest auto-update (tylko build `github`) |
 
 ---
 
 ## Krótka wiadomość do skopiowania dla testerów
 
 ```
-NaviLas (Android) — testowa instalacja:
+NaviLas (Android) — testowa instalacja (GitHub):
 
 https://github.com/Woszik/NaviLas-releases
 
 1) Wejdź w Releases i pobierz najnowszy navilas-*.apk
 2) Zainstaluj (zezwól na instalację z tego źródła)
-3) Jeśli Play Protect ostrzeże, że aplikacja jest „niebezpieczna” — to normalne przy instalacji spoza Google Play. APK bierz tylko z powyższego linku, potem „zainstaluj mimo to”.
+3) Play Protect może ostrzec — normalne przy APK spoza Play. Bierz tylko z powyższego linku.
 
-Aktualizacje: przy starcie aplikacji albo Wyszukiwanie → Sprawdź aktualizacje.
-Kopia zapisanych miejsc: Lista → Zapisane → Kopia → Eksportuj / Importuj.
+Aktualizacje: przy starcie albo Wyszukiwanie → Sprawdź aktualizacje.
+Kopia punktów: Lista → Zapisane → Kopia → Eksportuj / Importuj.
+Źródła: https://github.com/Woszik/NaviLas (GPL-3.0)
 ```
