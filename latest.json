@@ -1,10 +1,10 @@
 {
-  "versionCode": 3,
-  "versionName": "0.5.1-page-nav",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.1-page-nav/navilas-0.5.1-page-nav.apk",
-  "sha256": "7afd254d4ed31b60bca2620248f9c119858c25dcee618d7779be1a23f6ca7273",
-  "releaseNotes": "Add chrome page swipe and footer arrows; release 0.5.1.  Enable left/right navigation via toolbar/footer swipe and chevron buttons so the GitHub-installed build can update past 0.5.0.  Co-authored-by: Cursor <cursoragent@cursor.com> ",
+  "versionCode": 4,
+  "versionName": "0.5.2-update-check",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.2-update-check/navilas-0.5.2-update-check.apk",
+  "sha256": "4b7af4e7612afb29f7bdcd23145f81ceece899e438771708f472da6100f80446",
+  "releaseNotes": "• Sprawdzanie aktualizacji przy każdym starcie aplikacji • Brak komunikatu, gdy masz już najnowszą wersję • Dialog tylko gdy jest update (Aktualizuj / Później)",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-08-23T04:37:58Z"
+  "publishedAt": "2026-08-23T04:58:53Z"
 }
