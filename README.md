@@ -17,7 +17,8 @@ NaviLas pomaga znaleźć **miejsca odpoczynku w lasach** (dane BDL / „Czas w L
 - mapa wyników i stref „Zanocuj w lesie”,
 - dojazd samochodem lub motocyklem,
 - dane BDL offline,
-- zapisywanie ulubionych miejsc z kategoriami.
+- zapisywanie ulubionych miejsc z kategoriami,
+- **eksport i import zapisanych miejsc** (kopia zapasowa w pliku JSON).
 
 ---
 
@@ -63,6 +64,23 @@ Aktualizacja pobiera APK z GitHub i uruchamia instalator systemowy. Ponownie mo�
 
 ---
 
+## Kopia zapisanych miejsc (eksport / import)
+
+Jeśli masz zapisane ulubione miejsca, możesz je **zabezpieczyć przed utratą** (np. przed odinstalowaniem aplikacji):
+
+1. Ekran **Lista** → **Zapisane** → **Kopia** → **Eksportuj zapisane…**
+2. Zapisz plik JSON (np. w folderze **Pobrane**)
+
+Po ponownej instalacji lub na innym telefonie:
+
+1. **Lista** → **Zapisane** → **Kopia** → **Importuj zapisane…**
+2. Wybierz plik kopii
+3. **Scal** (dodaje brakujące) lub **Zastąp wszystko** (przywraca kopię na czysto)
+
+Plik kopii **nie jest wysyłany automatycznie** nigdzie poza Twoim urządzeniem. Szczegóły: ikona **ⓘ** → **O aplikacji**.
+
+---
+
 ## Pliki w tym repo
 
 | Element | Opis |
@@ -84,4 +102,5 @@ https://github.com/Woszik/NaviLas-releases
 3) Jeśli Play Protect ostrzeże, że aplikacja jest „niebezpieczna” — to normalne przy instalacji spoza Google Play. APK bierz tylko z powyższego linku, potem „zainstaluj mimo to”.
 
 Aktualizacje: przy starcie aplikacji albo Wyszukiwanie → Sprawdź aktualizacje.
+Kopia zapisanych miejsc: Lista → Zapisane → Kopia → Eksportuj / Importuj.
 ```
