@@ -1,10 +1,10 @@
 {
-  "versionCode": 9,
-  "versionName": "0.5.7-fdroid-prep",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.7-fdroid-prep/navilas-0.5.7-fdroid-prep.apk",
-  "sha256": "a70f41b4c6171fc981f22dca7d7dc672c0327b4480790669fdbf7b4dc339e542",
-  "releaseNotes": "Prepare F-Droid: GPL-3.0, public sources, github/fdroid flavors.",
+  "versionCode": 28,
+  "versionName": "0.5.24",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.24/navilas-0.5.24.apk",
+  "sha256": "07f528ba0990ef6cc133d964e89c9ca3777d48b8b97b58c63d768adc452065db",
+  "releaseNotes": "Release 0.5.24: map browse, corridor search, and UI consistency.",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-08-23T08:31:10Z"
+  "publishedAt": "2026-08-26T05:55:49Z"
 }
