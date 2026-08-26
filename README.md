@@ -45,21 +45,16 @@ NaviLas pomaga znaleźć **miejsca odpoczynku w lasach** (dane BDL / „Czas w L
 
 ## Instalacja z GitHub (pierwszy raz)
 
-1. Otwórz na telefonie: https://github.com/Woszik/NaviLas-releases  
-2. Wejdź w **[Releases](https://github.com/Woszik/NaviLas-releases/releases)** i pobierz najnowszy plik `navilas-*.apk`.  
-3. Otwórz pobrany plik i zezwól na instalację z tego źródła (przeglądarka / pliki), jeśli system o to poprosi.  
+1. Otwórz na telefonie: https://github.com/Woszik/NaviLas-releases
+2. Wejdź w **[Releases](https://github.com/Woszik/NaviLas-releases/releases)** i pobierz najnowszy plik `navilas-*.apk`.
+3. Otwórz pobrany plik i zezwól na instalację z tego źródła (przeglądarka / pliki), jeśli system o to poprosi.
 4. Zainstaluj aplikację.
 
-### Ostrzeżenie Google Play Protect („aplikacja niebezpieczna”)
+### Ostrzeżenie Google Play Protect
 
-To **częste i oczekiwane** przy instalacji spoza Google Play.
+Ostrzeżenie przy instalacji APK spoza Google Play jest **normalne** — NaviLas nie jest w Sklepie Play. Instaluj wyłącznie z tego repozytorium (`NaviLas-releases` / zakładka Releases).
 
-NaviLas **nie pochodzi ze sklepu Play**, tylko z oficjalnego release na GitHubie (to repozytorium). Play Protect bywa ostrożny wobec takich APK — **nie oznacza to automatycznie wirusa**.
-
-Jeśli pobrałeś APK z powyższego linku / z zakładki Releases:
-
-- możesz wybrać opcję w stylu **„Mimo to zainstaluj”** / **„Zainstaluj mimo to”**,
-- albo w Play Protect tymczasowo zezwolić na tę instalację.
+Typowa ścieżka na telefonie: w oknie Play Protect wybierz **Więcej szczegółów**, a potem **Zainstaluj bez skanowania**.
 
 Nie instaluj NaviLas z innych, nieoficjalnych stron.
 
@@ -119,7 +114,7 @@ https://github.com/Woszik/NaviLas-releases
 
 1) Wejdź w Releases i pobierz najnowszy navilas-*.apk
 2) Zainstaluj (zezwól na instalację z tego źródła)
-3) Play Protect może ostrzec — normalne przy APK spoza Play. Bierz tylko z powyższego linku.
+3) Play Protect może ostrzec — normalne. Więcej szczegółów → Zainstaluj bez skanowania. Bierz tylko z powyższego linku.
 
 Aktualizacje: przy starcie albo Wyszukiwanie → Sprawdź aktualizacje.
 Kopia punktów: Lista → Zapisane → Kopia → Eksportuj / Importuj.
