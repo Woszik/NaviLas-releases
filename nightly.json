@@ -1,0 +1,11 @@
+{
+  "versionCode": 41,
+  "versionName": "0.5.36-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.36-nightly.apk",
+  "sha256": "7261d52240dc40f71c310e6dbd2651a099671fbd888c1a6d9f4afea24f06182c",
+  "releaseNotes": "Nightly 0.5.36: naprawiona pusta mapa przeglądania oraz wybór kanału aktualizacji Nightly/Beta/Final w ustawieniach.",
+  "channel": "nightly",
+  "minVersionCode": 1,
+  "minAndroidSdk": 26,
+  "publishedAt": "2026-08-30T14:03:46Z"
+}
