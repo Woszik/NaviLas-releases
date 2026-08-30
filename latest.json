@@ -1,10 +1,10 @@
 {
-  "versionCode": 37,
-  "versionName": "0.5.33",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.33/navilas-0.5.33.apk",
-  "sha256": "031a8aa53c35ea91caac9fc933c8732de08da55d18a52c6509aba13fcc9351ee",
-  "releaseNotes": "Release 0.5.33: wspólne filtry miejsc (wyszukiwanie + mapa), śledzenie GPS, źródła wody BDL. Po aktualizacji zalecane ponowne pobranie danych offline.",
+  "versionCode": 38,
+  "versionName": "0.5.34",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.34/navilas-0.5.34.apk",
+  "sha256": "985c5f30717db59d323f8f00384008fcb59c7dfb778fbb7bb9cb4a9997368437",
+  "releaseNotes": "Release 0.5.34 Beta: szybszy i przewidywalny start, rozszerzone dane BDL i wyszukiwanie miejscowości, usprawniona nawigacja oraz nowe menu i motywy System/Czujnik/Dzień/Noc.",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-08-28T18:51:37Z"
+  "publishedAt": "2026-08-30T11:37:08Z"
 }
