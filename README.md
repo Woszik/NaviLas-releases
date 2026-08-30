@@ -1,6 +1,8 @@
 # NaviLas — instalacja dla testerów
 
-Oficjalne, publiczne wydania aplikacji **NaviLas** (Android).
+Oficjalne, publiczne wydania **Beta** aplikacji **NaviLas** (Android).
+
+**Aktualna Beta:** [0.5.34](https://github.com/Woszik/NaviLas-releases/releases/tag/v0.5.34)
 
 **Adres tego repozytorium (do przekazania testerom):**  
 https://github.com/Woszik/NaviLas-releases
@@ -26,11 +28,14 @@ Tutaj są opis, pliki APK z kanału **GitHub** i manifest auto-update. Równoleg
 
 NaviLas pomaga znaleźć **miejsca odpoczynku w lasach** (dane BDL / „Czas w Lesie”):
 
-- wyszukiwanie wokół GPS, punktu na mapie lub miejscowości,
+- wyszukiwanie wokół GPS, punktu na mapie, miejscowości lub wzdłuż linii,
+- przeglądanie i filtrowanie miejsc oraz dodatkowych obiektów BDL,
 - mapa wyników i stref „Zanocuj w lesie”,
 - dojazd samochodem lub motocyklem,
+- przekazywanie celu do Google Maps, OsmAnd lub Cruiser,
 - dane BDL offline,
 - zapisywanie ulubionych miejsc z kategoriami,
+- motyw System / Czujnik światła / Dzień / Noc,
 - **eksport i import zapisanych miejsc** (kopia zapasowa w pliku JSON).
 
 ---
@@ -66,7 +71,7 @@ Po pierwszej instalacji z tego repozytorium:
 
 - przy **starcie aplikacji** NaviLas sprawdza, czy jest nowsza wersja,
 - jeśli tak — pojawia się okno z opisem zmian i przyciskami **Aktualizuj** / **Później**,
-- możesz też sprawdzić ręcznie: ekran **Wyszukiwanie** → **Sprawdź aktualizacje**.
+- możesz też sprawdzić ręcznie: menu **⋮ → Sprawdź aktualizacje**.
 
 Aktualizacja pobiera APK z GitHub i uruchamia instalator systemowy. Ponownie może pojawić się Play Protect — zachowanie jak przy pierwszej instalacji.
 
@@ -85,7 +90,7 @@ Po ponownej instalacji lub na innym telefonie:
 2. Wybierz plik kopii
 3. **Scal** (dodaje brakujące) lub **Zastąp wszystko** (przywraca kopię na czysto)
 
-Plik kopii **nie jest wysyłany automatycznie** nigdzie poza Twoim urządzeniem. Szczegóły: ikona **ⓘ** → **O aplikacji**.
+Plik kopii **nie jest wysyłany automatycznie** nigdzie poza Twoim urządzeniem. Szczegóły: menu **⋮ → O aplikacji**.
 
 ---
 
@@ -116,7 +121,7 @@ https://github.com/Woszik/NaviLas-releases
 2) Zainstaluj (zezwól na instalację z tego źródła)
 3) Play Protect może ostrzec — normalne. Więcej szczegółów → Zainstaluj bez skanowania. Bierz tylko z powyższego linku.
 
-Aktualizacje: przy starcie albo Wyszukiwanie → Sprawdź aktualizacje.
+Aktualizacje: przy starcie albo menu ⋮ → Sprawdź aktualizacje.
 Kopia punktów: Lista → Zapisane → Kopia → Eksportuj / Importuj.
 Źródła: https://github.com/Woszik/NaviLas (GPL-3.0)
 ```
