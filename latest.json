@@ -1,10 +1,11 @@
 {
-  "versionCode": 39,
-  "versionName": "0.5.35",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.35/navilas-0.5.35.apk",
-  "sha256": "0102a69002da69dc01092d955c0c7d6284ab133a281a1af139e662280f608d92",
-  "releaseNotes": "Release 0.5.35 Beta: przypomnienie o odświeżeniu bazy BDL offline po 30 dniach — ponowne pobranie zapisanej konfiguracji albo odłożenie na 7 dni.",
+  "versionCode": 42,
+  "versionName": "0.5.36",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.36/navilas-0.5.36.apk",
+  "sha256": "d1beaf67ae8e5f26ffd7b2529e6bebaa9b04d042d043476c84e32c151a763e06",
+  "releaseNotes": "Release 0.5.36 Beta: punkty BDL znowu widoczne na mapie przeglądania; domyślny kanał aktualizacji to Beta.",
+  "channel": "beta",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-08-30T12:37:40Z"
+  "publishedAt": "2026-08-30T19:50:57Z"
 }
