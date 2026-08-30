@@ -1,11 +1,11 @@
 {
-  "versionCode": 42,
-  "versionName": "0.5.36",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.36.apk",
-  "sha256": "3f793df7e136a300d882a16c900c697a0d0620f3a860fd87cd112ab6b7d89ffa",
-  "releaseNotes": "Release 0.5.36 Beta: punkty BDL znowu widoczne na mapie przeglądania; domyślny kanał aktualizacji to Beta.",
+  "versionCode": 43,
+  "versionName": "0.5.37-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.37-nightly.apk",
+  "sha256": "0bea7c4236842eb27416712c1a710006121a7f0be152065a64102929ed7849a6",
+  "releaseNotes": "Nightly 0.5.37: niezależne kategorie Obiektów BDL oraz belki Filtry miejsc / Obiekty BDL na mapie.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-08-30T19:51:00Z"
+  "publishedAt": "2026-08-30T20:36:46Z"
 }
