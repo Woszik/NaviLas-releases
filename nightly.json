@@ -1,11 +1,11 @@
 {
-  "versionCode": 43,
-  "versionName": "0.5.37-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.37-nightly.apk",
-  "sha256": "0bea7c4236842eb27416712c1a710006121a7f0be152065a64102929ed7849a6",
-  "releaseNotes": "Nightly 0.5.37: niezależne kategorie Obiektów BDL oraz belki Filtry miejsc / Obiekty BDL na mapie.",
+  "versionCode": 44,
+  "versionName": "0.5.38-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.38-nightly.apk",
+  "sha256": "83b19f20c07789ffdf1bd30889379c5881cc334b0685b3618df682eed6a6f1eb",
+  "releaseNotes": "Nightly 0.5.38: Obiekty BDL na mapie w Search i Browse, wielozaznaczenie z porównaniem oraz etykiety dojazdu moto (surface/tracktype).",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-08-30T20:36:46Z"
+  "publishedAt": "2026-08-30T21:31:30Z"
 }
