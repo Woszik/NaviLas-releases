@@ -2,9 +2,9 @@
   "versionCode": 38,
   "versionName": "0.5.34",
   "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.34/navilas-0.5.34.apk",
-  "sha256": "985c5f30717db59d323f8f00384008fcb59c7dfb778fbb7bb9cb4a9997368437",
-  "releaseNotes": "Release 0.5.34 Beta: szybszy i przewidywalny start, rozszerzone dane BDL i wyszukiwanie miejscowości, usprawniona nawigacja oraz nowe menu i motywy System/Czujnik/Dzień/Noc.",
+  "sha256": "f531946261c2fc9bc4ba16527045c001bbe4fcf98654862762d7ef5bdc8b36f0",
+  "releaseNotes": "Release 0.5.34 Beta: szybszy i przewidywalny start, rozszerzone dane BDL i wyszukiwanie miejscowości, usprawniona nawigacja, menu i motywy System/Czujnik/Dzień/Noc oraz czytelny czarny tekst menu w trybie dziennym.",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-08-30T11:37:08Z"
+  "publishedAt": "2026-08-30T12:14:26Z"
 }
