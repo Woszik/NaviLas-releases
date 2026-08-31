@@ -1,11 +1,11 @@
 {
-  "versionCode": 45,
-  "versionName": "0.5.39-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.39-nightly.apk",
-  "sha256": "a7b2fdbd8353df38fe188678570daa895f42dca2643423096902489477f88eb1",
-  "releaseNotes": "Nightly 0.5.39: pauza/play śledzenia zachowuje skalę i kierunek; overlay zakazów wstępu BDL na mapie.",
+  "versionCode": 46,
+  "versionName": "0.5.40-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.40-nightly.apk",
+  "sha256": "fd0294a5bc86520659bee243bc4fdd860397eb3023e701ee6886276385add3c8",
+  "releaseNotes": "Nightly 0.5.40: zakazy wstępu do pobrania offline; monit po 7 dniach, ponowienie po 24 h.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-08-31T19:17:22Z"
+  "publishedAt": "2026-08-31T19:41:19Z"
 }
