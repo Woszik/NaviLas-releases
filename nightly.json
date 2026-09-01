@@ -1,11 +1,11 @@
 {
-  "versionCode": 48,
-  "versionName": "0.5.42-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.42-nightly.apk",
-  "sha256": "c0408327ba990a33e544d6d072b0f4b4d3120af8e7d4cce11f52953c0f5d86ea",
-  "releaseNotes": "Nightly 0.5.42: zakazy wstępu od tego samego przybliżenia co Zanocuj (zoom 7.5).",
+  "versionCode": 49,
+  "versionName": "0.5.42",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.42.apk",
+  "sha256": "938c3fd506d6f46828f15de3948a905fb89754f6bebd3fb7d027f8deff2b9ab6",
+  "releaseNotes": "Release 0.5.42 Beta: zakazy wstępu BDL offline na mapie (zoom jak Zanocuj), filtr poza strefą, Obiekty BDL w Search i Browse, wielozaznaczenie z porównaniem oraz etykiety dojazdu moto.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-01T15:11:46Z"
+  "publishedAt": "2026-09-01T15:56:48Z"
 }
