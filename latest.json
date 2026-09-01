@@ -1,11 +1,11 @@
 {
-  "versionCode": 42,
-  "versionName": "0.5.36",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.36/navilas-0.5.36.apk",
-  "sha256": "d1beaf67ae8e5f26ffd7b2529e6bebaa9b04d042d043476c84e32c151a763e06",
-  "releaseNotes": "Release 0.5.36 Beta: punkty BDL znowu widoczne na mapie przeglądania; domyślny kanał aktualizacji to Beta.",
+  "versionCode": 49,
+  "versionName": "0.5.42",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.42/navilas-0.5.42.apk",
+  "sha256": "4b0236c2aba0ebf2ffdd1b6543f5a38d624db3f7f806ab51f8ea6fc437328923",
+  "releaseNotes": "Release 0.5.42 Beta: zakazy wstępu BDL offline na mapie (zoom jak Zanocuj), filtr poza strefą, Obiekty BDL w Search i Browse, wielozaznaczenie z porównaniem oraz etykiety dojazdu moto.",
   "channel": "beta",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-08-30T19:50:57Z"
+  "publishedAt": "2026-09-01T15:56:54Z"
 }
