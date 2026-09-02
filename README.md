@@ -2,7 +2,7 @@
 
 Oficjalne, publiczne wydania **Beta** aplikacji **NaviLas** (Android).
 
-**Aktualna Beta:** [0.5.42](https://github.com/Woszik/NaviLas-releases/releases/tag/v0.5.42)
+**Aktualna Beta:** [0.5.44](https://github.com/Woszik/NaviLas-releases/releases/tag/v0.5.44)
 
 **Adres tego repozytorium (do przekazania testerom):**  
 https://github.com/Woszik/NaviLas-releases
