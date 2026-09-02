@@ -1,11 +1,11 @@
 {
-  "versionCode": 49,
-  "versionName": "0.5.42",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.42/navilas-0.5.42.apk",
-  "sha256": "4b0236c2aba0ebf2ffdd1b6543f5a38d624db3f7f806ab51f8ea6fc437328923",
-  "releaseNotes": "Release 0.5.42 Beta: zakazy wstępu BDL offline na mapie (zoom jak Zanocuj), filtr poza strefą, Obiekty BDL w Search i Browse, wielozaznaczenie z porównaniem oraz etykiety dojazdu moto.",
+  "versionCode": 52,
+  "versionName": "0.5.44",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.44/navilas-0.5.44.apk",
+  "sha256": "e4f756abb1362102c4c1de812ea9f65c3e98fba94ce5ce6ae965f1aea8646df5",
+  "releaseNotes": "Release 0.5.44 Beta: belki Tryb, Profil i Szukaj w arkusz Filtry na mapie (źródło, promień, ZNAJDŹ); zmiana trybu zostawia Cię na mapie.",
   "channel": "beta",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-01T15:56:54Z"
+  "publishedAt": "2026-09-02T19:27:34Z"
 }
