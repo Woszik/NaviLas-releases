@@ -1,11 +1,11 @@
 {
-  "versionCode": 52,
-  "versionName": "0.5.44",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.44/navilas-0.5.44.apk",
-  "sha256": "e4f756abb1362102c4c1de812ea9f65c3e98fba94ce5ce6ae965f1aea8646df5",
-  "releaseNotes": "Release 0.5.44 Beta: belki Tryb, Profil i Szukaj w arkusz Filtry na mapie (źródło, promień, ZNAJDŹ); zmiana trybu zostawia Cię na mapie.",
+  "versionCode": 58,
+  "versionName": "0.5.46",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.46/navilas-0.5.46.apk",
+  "sha256": "fb963cd2df9579649e27b2a1a6c6267ee2fb9684cab867f9d07a31d1fee6ec53",
+  "releaseNotes": "Release 0.5.46 Beta: zakazy wstępu BDL włączone od startu (mapa i filtr poza strefą); dojazd moto do oficjalnego parkingu/postoju LP; Szczegóły jak karta i W pobliżu 200 m.",
   "channel": "beta",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-02T19:27:34Z"
+  "publishedAt": "2026-09-02T23:54:41Z"
 }
