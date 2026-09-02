@@ -1,11 +1,11 @@
 {
-  "versionCode": 55,
-  "versionName": "0.5.44-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.44-nightly.apk",
-  "sha256": "3a2d7047a89fee1a36a0a60280ce037c6be29a20306ca54f6c759c05b9c8cec4",
-  "releaseNotes": "Nightly 0.5.44-nightly: powrót do kodu Bety 0.5.44; filtr Nad wodą wycofany.",
+  "versionCode": 56,
+  "versionName": "0.5.45-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.45-nightly.apk",
+  "sha256": "8a2a84f3e7b12c3d3b0d75d85c2d71420245265c6e9deabed92840b57ce6424e",
+  "releaseNotes": "Nightly 0.5.45: Szczegóły jak karta; dojazd moto z niepewnym dostępem OSM; W pobliżu 200 m z overlay offline.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-02T21:22:48Z"
+  "publishedAt": "2026-09-02T22:41:58Z"
 }
