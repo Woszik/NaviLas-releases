@@ -1,11 +1,11 @@
 {
-  "versionCode": 57,
-  "versionName": "0.5.46-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.46-nightly.apk",
-  "sha256": "6028a5273f0e43663d86b22beed5cf11c9a8a7fd7d4ee36151ec7ca67e988501",
-  "releaseNotes": "Nightly 0.5.46: dojazd do oficjalnego parkingu/postoju LP i dziedziczenie wzdłuż tej drogi.",
+  "versionCode": 58,
+  "versionName": "0.5.46",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.46.apk",
+  "sha256": "912c28d0c0dba94999b5476e2194734d2ebe99f962b52fbeb14b492af6c4b8bc",
+  "releaseNotes": "Release 0.5.46 Beta: zakazy wstępu BDL włączone od startu (mapa i filtr poza strefą); dojazd moto do oficjalnego parkingu/postoju LP; Szczegóły jak karta i W pobliżu 200 m.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-02T23:18:24Z"
+  "publishedAt": "2026-09-02T23:54:52Z"
 }
