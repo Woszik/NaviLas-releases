@@ -1,11 +1,11 @@
 {
-  "versionCode": 51,
-  "versionName": "0.5.44-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.44-nightly.apk",
-  "sha256": "65c4ab0f784cd1b9eb16ab48f18fdca7e0634e43c2e3a941d000ca63dccf700d",
-  "releaseNotes": "Nightly 0.5.44: belka Szukaj w arkusz Filtry (źródło, promień, ZNAJDŹ, miejscowość, linia); sync z ekranem 1.",
+  "versionCode": 52,
+  "versionName": "0.5.44",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.44.apk",
+  "sha256": "b2aca1f921d546deb19fb53f5b1ce284e29e5243f266bfd887114f0dd326f372",
+  "releaseNotes": "Release 0.5.44 Beta: belki Tryb, Profil i Szukaj w arkusz Filtry na mapie (źródło, promień, ZNAJDŹ); zmiana trybu zostawia Cię na mapie.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-01T17:05:29Z"
+  "publishedAt": "2026-09-02T19:27:49Z"
 }
