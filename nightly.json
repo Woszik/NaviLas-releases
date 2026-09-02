@@ -1,11 +1,11 @@
 {
-  "versionCode": 56,
-  "versionName": "0.5.45-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.45-nightly.apk",
-  "sha256": "8a2a84f3e7b12c3d3b0d75d85c2d71420245265c6e9deabed92840b57ce6424e",
-  "releaseNotes": "Nightly 0.5.45: Szczegóły jak karta; dojazd moto z niepewnym dostępem OSM; W pobliżu 200 m z overlay offline.",
+  "versionCode": 57,
+  "versionName": "0.5.46-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.46-nightly.apk",
+  "sha256": "6028a5273f0e43663d86b22beed5cf11c9a8a7fd7d4ee36151ec7ca67e988501",
+  "releaseNotes": "Nightly 0.5.46: dojazd do oficjalnego parkingu/postoju LP i dziedziczenie wzdłuż tej drogi.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-02T22:41:58Z"
+  "publishedAt": "2026-09-02T23:18:24Z"
 }
