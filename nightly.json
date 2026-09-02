@@ -1,11 +1,11 @@
 {
-  "versionCode": 52,
-  "versionName": "0.5.44",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.44.apk",
-  "sha256": "b2aca1f921d546deb19fb53f5b1ce284e29e5243f266bfd887114f0dd326f372",
-  "releaseNotes": "Release 0.5.44 Beta: belki Tryb, Profil i Szukaj w arkusz Filtry na mapie (źródło, promień, ZNAJDŹ); zmiana trybu zostawia Cię na mapie.",
+  "versionCode": 53,
+  "versionName": "0.5.45-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.45-nightly.apk",
+  "sha256": "ce6db117e8a2db1d594f16f54d6a6bfa8508c73bd51b730ecc1a39e10560daeb",
+  "releaseNotes": "Nightly 0.5.45: filtr Nad wodą (przy punkcie 250 m / max 1–9999 m); OSM rzeki i jeziora + BDL 26/kąpielisko/marina; Źródło nie wchodzi.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-02T19:27:49Z"
+  "publishedAt": "2026-09-02T20:13:22Z"
 }
