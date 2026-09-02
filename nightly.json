@@ -1,11 +1,11 @@
 {
-  "versionCode": 53,
-  "versionName": "0.5.45-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.45-nightly.apk",
-  "sha256": "ce6db117e8a2db1d594f16f54d6a6bfa8508c73bd51b730ecc1a39e10560daeb",
-  "releaseNotes": "Nightly 0.5.45: filtr Nad wodą (przy punkcie 250 m / max 1–9999 m); OSM rzeki i jeziora + BDL 26/kąpielisko/marina; Źródło nie wchodzi.",
+  "versionCode": 54,
+  "versionName": "0.5.46-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.46-nightly.apk",
+  "sha256": "03e318068e8d7c4e9ffb810a3064c712fa1fb319ac05dc3704403c7614918e59",
+  "releaseNotes": "Nightly 0.5.46: filtr Nad wodą jak wiata — parkingi i postoje 17/19 nad wodą wchodzą do wyników; Źródło nie wchodzi.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-02T20:13:22Z"
+  "publishedAt": "2026-09-02T20:44:29Z"
 }
