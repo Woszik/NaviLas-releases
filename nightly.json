@@ -1,11 +1,11 @@
 {
-  "versionCode": 54,
-  "versionName": "0.5.46-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.46-nightly.apk",
-  "sha256": "03e318068e8d7c4e9ffb810a3064c712fa1fb319ac05dc3704403c7614918e59",
-  "releaseNotes": "Nightly 0.5.46: filtr Nad wodą jak wiata — parkingi i postoje 17/19 nad wodą wchodzą do wyników; Źródło nie wchodzi.",
+  "versionCode": 55,
+  "versionName": "0.5.44-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.44-nightly.apk",
+  "sha256": "3a2d7047a89fee1a36a0a60280ce037c6be29a20306ca54f6c759c05b9c8cec4",
+  "releaseNotes": "Nightly 0.5.44-nightly: powrót do kodu Bety 0.5.44; filtr Nad wodą wycofany.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-02T20:44:29Z"
+  "publishedAt": "2026-09-02T21:22:48Z"
 }
