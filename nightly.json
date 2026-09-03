@@ -2,10 +2,10 @@
   "versionCode": 64,
   "versionName": "0.5.52-nightly",
   "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.52-nightly.apk",
-  "sha256": "f7910d554e0970cf6c30ca2b42fd632297e509e6826c79d715c0a444c2a9f69a",
-  "releaseNotes": "Nightly 0.5.52: ujednolicone opisy OsmAnd moto (UI + docs).",
+  "sha256": "4e42f45c34e52c119d3a12d01b278a713fe955a28b805c966ff9fd502502b78f",
+  "releaseNotes": "Docs: wniosek BDL wysłany — BDLPOMOC-3343, treść jak w mailu.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-03T18:19:24Z"
+  "publishedAt": "2026-09-03T21:55:29Z"
 }
