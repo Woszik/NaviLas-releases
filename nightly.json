@@ -1,11 +1,11 @@
 {
-  "versionCode": 59,
-  "versionName": "0.5.47-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.47-nightly.apk",
-  "sha256": "9695da1348f28d05a4cf25b88bcaf71cff85e82a6cf51db9c4a0033ec6913c28",
-  "releaseNotes": "Nightly 0.5.47: NAWIGUJ w kolejności OsmAnd, Cruiser, Współrzędne GPS, Wybierz nawigację, Google Maps; dialogi instalacji i import profili OsmAnd.",
+  "versionCode": 60,
+  "versionName": "0.5.48-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.48-nightly.apk",
+  "sha256": "64c9a4f742992e73d37ee259d5df40e7361e605958222b2098a791fcfb66a7d6",
+  "releaseNotes": "Nightly 0.5.48: klik w punkt w przeglądaniu zawsze otwiera kartę; bez zoomu kamery, overlay na mapie i analiza OSM na karcie.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-03T09:47:39Z"
+  "publishedAt": "2026-09-03T11:10:44Z"
 }
