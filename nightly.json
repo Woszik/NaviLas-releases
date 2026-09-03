@@ -1,11 +1,11 @@
 {
-  "versionCode": 61,
-  "versionName": "0.5.49-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.49-nightly.apk",
-  "sha256": "126114ef48ae61345e78409fff828d6cc68a580759cce7ca70a810a48348c71c",
-  "releaseNotes": "Nightly 0.5.49: Szczegóły dociągają z BDL nadleśnictwo i leśnictwo dla punktu (WMS_BDL, na żądanie).",
+  "versionCode": 62,
+  "versionName": "0.5.50-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.50-nightly.apk",
+  "sha256": "4a33a047cc5768130af8f36dff0c038a7d737ade370dfeb91b33a30aba5cf4be",
+  "releaseNotes": "Nightly 0.5.50: postęp w karcie analizy + failover Overpass",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-03T11:59:36Z"
+  "publishedAt": "2026-09-03T15:45:54Z"
 }
