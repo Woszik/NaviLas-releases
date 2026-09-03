@@ -1,11 +1,11 @@
 {
-  "versionCode": 62,
-  "versionName": "0.5.50-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.50-nightly.apk",
-  "sha256": "4a33a047cc5768130af8f36dff0c038a7d737ade370dfeb91b33a30aba5cf4be",
-  "releaseNotes": "Nightly 0.5.50: postęp w karcie analizy + failover Overpass",
+  "versionCode": 63,
+  "versionName": "0.5.51-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.51-nightly.apk",
+  "sha256": "11d3e198532bbb0290465aeec0c2be8f9e0211da7488a78e05e061bfa81d7dce",
+  "releaseNotes": "Nightly 0.5.51: wyszukiwanie miejsc BDL po nazwie z paczki offline.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-03T15:45:54Z"
+  "publishedAt": "2026-09-03T17:18:06Z"
 }
