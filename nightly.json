@@ -2,10 +2,10 @@
   "versionCode": 58,
   "versionName": "0.5.46",
   "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.46.apk",
-  "sha256": "912c28d0c0dba94999b5476e2194734d2ebe99f962b52fbeb14b492af6c4b8bc",
-  "releaseNotes": "Release 0.5.46 Beta: zakazy wstępu BDL włączone od startu (mapa i filtr poza strefą); dojazd moto do oficjalnego parkingu/postoju LP; Szczegóły jak karta i W pobliżu 200 m.",
+  "sha256": "57a0cfcaeb17879a849a0a9d9cec314359dedbd452dd012fadbc3880c6748990",
+  "releaseNotes": "Wniosek do BDL: częstotliwość pobierania danych i codzienne przypomnienie o zakazach.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-02T23:54:52Z"
+  "publishedAt": "2026-09-03T00:11:47Z"
 }
