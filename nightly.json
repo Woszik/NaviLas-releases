@@ -1,11 +1,11 @@
 {
-  "versionCode": 58,
-  "versionName": "0.5.46",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.46.apk",
-  "sha256": "57a0cfcaeb17879a849a0a9d9cec314359dedbd452dd012fadbc3880c6748990",
-  "releaseNotes": "Wniosek do BDL: częstotliwość pobierania danych i codzienne przypomnienie o zakazach.",
+  "versionCode": 59,
+  "versionName": "0.5.47-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.47-nightly.apk",
+  "sha256": "9695da1348f28d05a4cf25b88bcaf71cff85e82a6cf51db9c4a0033ec6913c28",
+  "releaseNotes": "Nightly 0.5.47: NAWIGUJ w kolejności OsmAnd, Cruiser, Współrzędne GPS, Wybierz nawigację, Google Maps; dialogi instalacji i import profili OsmAnd.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-03T00:11:47Z"
+  "publishedAt": "2026-09-03T09:47:39Z"
 }
