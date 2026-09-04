@@ -1,11 +1,11 @@
 {
-  "versionCode": 64,
-  "versionName": "0.5.52-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.52-nightly.apk",
-  "sha256": "4e42f45c34e52c119d3a12d01b278a713fe955a28b805c966ff9fd502502b78f",
-  "releaseNotes": "Docs: wniosek BDL wysłany — BDLPOMOC-3343, treść jak w mailu.",
+  "versionCode": 65,
+  "versionName": "0.5.53-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.53-nightly.apk",
+  "sha256": "248389ba91b952f495b9bc9eaf76a74d5c895a6fc338893128acf018a32a615e",
+  "releaseNotes": "Nightly 0.5.53: auto-paczka zakazów, jasna mapa w nocy (opcja Dark), nazwa miejsca pod Filtrami miejsc.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-03T21:55:29Z"
+  "publishedAt": "2026-09-04T06:37:33Z"
 }
