@@ -1,15 +1,50 @@
-# NaviLas — instalacja dla testerów
+# NaviLas — instalacja (GitHub)
 
-Oficjalne, publiczne wydania **Beta** aplikacji **NaviLas** (Android).
+Publiczne pliki APK aplikacji **NaviLas** (Android) oraz manifesty auto-update.
 
-**Aktualna Beta:** [0.5.46](https://github.com/Woszik/NaviLas-releases/releases/tag/v0.5.46)
-
-**Adres tego repozytorium (do przekazania testerom):**  
+**Adres tego repozytorium:**  
 https://github.com/Woszik/NaviLas-releases
 
-**Kod źródłowy (GPL-3.0):** https://github.com/Woszik/NaviLas
+**Kod źródłowy (GPL-3.0):** https://github.com/Woszik/NaviLas  
+**Opinie i sugestie:** https://github.com/Woszik/NaviLas/issues
 
-Tutaj są opis, pliki APK z kanału **GitHub** i manifest auto-update. Równolegle przygotowywany jest kanał **F-Droid** (osobna instalacja, inny podpis).
+---
+
+## Wybierz kanał świadomie
+
+Na liście [Releases](https://github.com/Woszik/NaviLas-releases/releases) są **trzy poziomy oczekiwań**. Nie pobieraj „najnowszego APK z listy” bez sprawdzenia kanału — Nightly jest oznaczony jako **Pre-release**.
+
+### Nightly (Pre-release) — testowanie pomysłów
+
+Świeże buildy z rozwoju. **Praktycznie do weryfikacji pomysłów** — mogą być niestabilne i szybko się zmieniać.
+
+Jeśli chcesz **pobawić się** nowościami: pobierz, używaj i **pisz opinie / sugestie** (Issues w repo kodu).
+
+| | |
+|--|--|
+| Release | tag [`nightly`](https://github.com/Woszik/NaviLas-releases/releases/tag/nightly) (Pre-release) |
+| Manifest | [`nightly.json`](https://github.com/Woszik/NaviLas-releases/blob/main/nightly.json) |
+| W aplikacji | Ustawienia → Aktualizacje → **Nightly i nowsze** |
+
+### Beta — użytkowanie testowe
+
+Wersje do **publikowania i szerszego użytkowania**, na **ogólnych zasadach bety**: mogą zawierać błędy; funkcje mogą się jeszcze zmieniać. Domyślny kanał aktualizacji w aplikacji.
+
+| | |
+|--|--|
+| **Aktualna Beta** | **[0.5.46](https://github.com/Woszik/NaviLas-releases/releases/tag/v0.5.46)** |
+| Manifest | [`latest.json`](https://github.com/Woszik/NaviLas-releases/blob/main/latest.json) |
+| W aplikacji | Ustawienia → Aktualizacje → **Beta i nowsze** (domyślnie) |
+
+### Final — planowane
+
+Docelowy kanał „produkcyjny”. Jak każda aplikacja może zawierać błędy — po wykryciu lub zgłoszeniu będą usuwane **w trybie priorytetowym**.
+
+| | |
+|--|--|
+| Status | **jeszcze niedostępny** |
+| Manifest | później `final.json` |
+| W aplikacji | Ustawienia → Aktualizacje → **Tylko Final** (cisza, dopóki nie powstanie) |
 
 ---
 
@@ -17,10 +52,12 @@ Tutaj są opis, pliki APK z kanału **GitHub** i manifest auto-update. Równoleg
 
 | Kanał | Skąd instalować | Aktualizacje |
 |-------|-----------------|--------------|
-| **GitHub** (ten repo) | [Releases](https://github.com/Woszik/NaviLas-releases/releases) | In-app przy starcie lub „Sprawdź aktualizacje” |
+| **GitHub** (to repo) | [Releases](https://github.com/Woszik/NaviLas-releases/releases) — wybierz Nightly / Beta / Final | In-app przy starcie lub „Sprawdź aktualizacje” |
 | **F-Droid** | Klient F-Droid (po wejściu do katalogu) | Tylko F-Droid |
 
-**Nie przełączaj kanałów na jednym telefonie bez kopii zapasowej** — APK mają różne podpisy. Przed zmianą: **Lista → Zapisane → Kopia → Eksportuj**.
+**Nie przełączaj GitHub ↔ F-Droid na jednym telefonie bez kopii zapasowej** — APK mają różne podpisy. Przed zmianą: **Lista → Zapisane → Kopia → Eksportuj**.
+
+Nightly, Beta i Final na GitHubie mają **ten sam podpis** — kanał przełączasz w Ustawieniach bez reinstalacji.
 
 ---
 
@@ -50,47 +87,35 @@ NaviLas pomaga znaleźć **miejsca odpoczynku w lasach** (dane BDL / „Czas w L
 
 ## Instalacja z GitHub (pierwszy raz)
 
-1. Otwórz na telefonie: https://github.com/Woszik/NaviLas-releases
-2. Wejdź w **[Releases](https://github.com/Woszik/NaviLas-releases/releases)** i pobierz najnowszy plik `navilas-*.apk`.
-3. Otwórz pobrany plik i zezwól na instalację z tego źródła (przeglądarka / pliki), jeśli system o to poprosi.
-4. Zainstaluj aplikację.
+1. Otwórz: https://github.com/Woszik/NaviLas-releases
+2. Wybierz kanał (wyżej) — dla większości osób start od **Beta**.
+3. Wejdź w odpowiedni release i pobierz `navilas-*.apk`.
+4. Zainstaluj (zezwól na instalację z tego źródła, jeśli system o to poprosi).
 
 ### Ostrzeżenie Google Play Protect
 
-Ostrzeżenie przy instalacji APK spoza Google Play jest **normalne** — NaviLas nie jest w Sklepie Play. Instaluj wyłącznie z tego repozytorium (`NaviLas-releases` / zakładka Releases).
+Ostrzeżenie przy instalacji APK spoza Google Play jest **normalne** — NaviLas nie jest w Sklepie Play. Instaluj wyłącznie z tego repozytorium.
 
-Typowa ścieżka na telefonie: w oknie Play Protect wybierz **Więcej szczegółów**, a potem **Zainstaluj bez skanowania**.
-
-Nie instaluj NaviLas z innych, nieoficjalnych stron.
+Typowa ścieżka: **Więcej szczegółów** → **Zainstaluj bez skanowania**.
 
 ---
 
 ## Aktualizacje (kanał GitHub)
 
-Po pierwszej instalacji z tego repozytorium:
+Po pierwszej instalacji:
 
-- przy **starcie aplikacji** NaviLas sprawdza, czy jest nowsza wersja,
-- jeśli tak — pojawia się okno z opisem zmian i przyciskami **Aktualizuj** / **Później**,
-- możesz też sprawdzić ręcznie: menu **⋮ → Sprawdź aktualizacje**.
-
-Aktualizacja pobiera APK z GitHub i uruchamia instalator systemowy. Ponownie może pojawić się Play Protect — zachowanie jak przy pierwszej instalacji.
+- przy **starcie** aplikacja sprawdza nowszą wersję według wybranego kanału,
+- możesz też: menu **⋮ → Sprawdź aktualizacje**,
+- kanał zmieniasz w **⋮ → Ustawienia → Aktualizacje (GitHub)**.
 
 ---
 
 ## Kopia zapisanych miejsc (eksport / import)
 
-Jeśli masz zapisane ulubione miejsca, możesz je **zabezpieczyć przed utratą** (np. przed odinstalowaniem aplikacji):
+1. **Lista** → **Zapisane** → **Kopia** → **Eksportuj zapisane…**
+2. Po reinstalacji: **Importuj…** → **Scal** lub **Zastąp wszystko**
 
-1. Ekran **Lista** → **Zapisane** → **Kopia** → **Eksportuj zapisane…**
-2. Zapisz plik JSON (np. w folderze **Pobrane**)
-
-Po ponownej instalacji lub na innym telefonie:
-
-1. **Lista** → **Zapisane** → **Kopia** → **Importuj zapisane…**
-2. Wybierz plik kopii
-3. **Scal** (dodaje brakujące) lub **Zastąp wszystko** (przywraca kopię na czysto)
-
-Plik kopii **nie jest wysyłany automatycznie** nigdzie poza Twoim urządzeniem. Szczegóły: menu **⋮ → O aplikacji**.
+Szczegóły: menu **⋮ → O aplikacji**.
 
 ---
 
@@ -105,23 +130,29 @@ Program na licencji **GNU GPL v3**. Pełny tekst: https://github.com/Woszik/Navi
 
 | Element | Opis |
 |---------|------|
-| [Releases](https://github.com/Woszik/NaviLas-releases/releases) | Historia wersji i pliki `navilas-*.apk` (kanał GitHub) |
-| [`latest.json`](https://github.com/Woszik/NaviLas-releases/blob/main/latest.json) | Manifest auto-update (tylko build `github`) |
+| [Releases](https://github.com/Woszik/NaviLas-releases/releases) | APK: Nightly (Pre-release), Beta (`vX.Y.Z`), później Final |
+| [`nightly.json`](https://github.com/Woszik/NaviLas-releases/blob/main/nightly.json) | Manifest Nightly |
+| [`latest.json`](https://github.com/Woszik/NaviLas-releases/blob/main/latest.json) | Manifest Beta |
+| `final.json` | Manifest Final — gdy powstanie |
 
 ---
 
-## Krótka wiadomość do skopiowania dla testerów
+## Krótka wiadomość do skopiowania
 
 ```
-NaviLas (Android) — testowa instalacja (GitHub):
+NaviLas (Android) — instalacja z GitHub:
 
 https://github.com/Woszik/NaviLas-releases
 
-1) Wejdź w Releases i pobierz najnowszy navilas-*.apk
-2) Zainstaluj (zezwól na instalację z tego źródła)
-3) Play Protect może ostrzec — normalne. Więcej szczegółów → Zainstaluj bez skanowania. Bierz tylko z powyższego linku.
+Wybierz kanał:
+• Beta (zalecane na start) — użytkowanie testowe na zasadach bety
+• Nightly (Pre-release) — zabawa świeżymi pomysłami + opinie/sugestie
+• Final — jeszcze niedostępny (później: naprawy błędów priorytetowo)
 
-Aktualizacje: przy starcie albo menu ⋮ → Sprawdź aktualizacje.
-Kopia punktów: Lista → Zapisane → Kopia → Eksportuj / Importuj.
+1) Releases → odpowiedni release → navilas-*.apk
+2) Play Protect może ostrzec — normalne. Więcej szczegółów → Zainstaluj bez skanowania.
+3) Aktualizacje: start aplikacji albo ⋮ → Sprawdź aktualizacje (kanał w Ustawieniach).
+
+Opinie: https://github.com/Woszik/NaviLas/issues
 Źródła: https://github.com/Woszik/NaviLas (GPL-3.0)
 ```
