@@ -32,7 +32,7 @@ Wersje do **publikowania i szerszego użytkowania**, na **ogólnych zasadach bet
 
 | | |
 |--|--|
-| **Aktualna Beta** | **[0.5.46](https://github.com/Woszik/NaviLas-releases/releases/tag/v0.5.46)** |
+| **Aktualna Beta** | **[0.5.58](https://github.com/Woszik/NaviLas-releases/releases/tag/v0.5.58)** |
 | Manifest | [`latest.json`](https://github.com/Woszik/NaviLas-releases/blob/main/latest.json) |
 | W aplikacji | Ustawienia → Aktualizacje → **Beta i nowsze** (domyślnie) |
 
