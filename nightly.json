@@ -1,11 +1,11 @@
 {
-  "versionCode": 70,
-  "versionName": "0.5.58-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.58-nightly.apk",
-  "sha256": "19fa3f3d10226d601c0b83d92703548231358dabab678a53516b55e375a763c3",
-  "releaseNotes": "Nightly 0.5.58: parking i postój (17/19) jako samodzielne cele w Browse i Search.",
+  "versionCode": 71,
+  "versionName": "0.5.58",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.58.apk",
+  "sha256": "79e0fabda49642ab90a8cba75015d1be402300ae75278b9cac20c0d9a5dbfd1a",
+  "releaseNotes": "Release 0.5.58 Beta: parking i postój LP jako cele; NAWIGUJ od OsmAnd; szukanie miejsca po nazwie; Szukaj informacji; auto-paczka zakazów; jasna mapa w nocy (opcja Dark); kanały Nightly/Beta/Final.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-04T22:01:58Z"
+  "publishedAt": "2026-09-06T12:06:48Z"
 }
