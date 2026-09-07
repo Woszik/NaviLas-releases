@@ -1,11 +1,11 @@
 {
-  "versionCode": 75,
-  "versionName": "0.5.62-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.62-nightly.apk",
-  "sha256": "f12b42f7a1f24a42cb831efc897170e2c14d264983f5c9ba3f342ad0c11fa5bf",
-  "releaseNotes": "Fix: poi accessor → mapBinding.poiCardInclude (bez rekurencji).",
+  "versionCode": 76,
+  "versionName": "0.5.63-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.63-nightly.apk",
+  "sha256": "25ce651c8cedada7627edf557748d556fd77eb8178d5770e581a685c8fd7667b",
+  "releaseNotes": "Nightly 0.5.63: jedna belka w poziomie (⋮ + zakładki). Kolejny Nightly: C.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-07T11:49:21Z"
+  "publishedAt": "2026-09-07T12:24:32Z"
 }
