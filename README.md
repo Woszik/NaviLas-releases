@@ -94,9 +94,7 @@ NaviLas pomaga znaleźć **miejsca odpoczynku w lasach** (dane BDL / „Czas w L
 
 ### Ostrzeżenie Google Play Protect
 
-Ostrzeżenie przy instalacji APK spoza Google Play jest **normalne** — NaviLas nie jest w Sklepie Play. Instaluj wyłącznie z tego repozytorium.
-
-Typowa ścieżka: **Więcej szczegółów** → **Zainstaluj bez skanowania**.
+Ostrzeżenie przy APK spoza Sklepu Play jest **normalne** — NaviLas nie jest w Play. Instaluj wyłącznie z tego repozytorium. Po skanowaniu: **Możesz ją zainstalować** → **Zainstaluj**.
 
 ---
 
@@ -150,7 +148,7 @@ Wybierz kanał:
 • Final — jeszcze niedostępny (później: naprawy błędów priorytetowo)
 
 1) Releases → odpowiedni release → navilas-*.apk
-2) Play Protect może ostrzec — normalne. Więcej szczegółów → Zainstaluj bez skanowania.
+2) Play Protect może ostrzec — normalne. Po skanowaniu: Możesz ją zainstalować → Zainstaluj.
 3) Aktualizacje: start aplikacji albo ⋮ → Sprawdź aktualizacje (kanał w Ustawieniach).
 
 Opinie: https://github.com/Woszik/NaviLas/issues
