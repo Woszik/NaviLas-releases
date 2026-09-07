@@ -1,11 +1,11 @@
 {
-  "versionCode": 71,
-  "versionName": "0.5.58",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.58.apk",
-  "sha256": "4fd92337c75649813b12476f0e25d09364a6b216473e596834380a3200811f9e",
-  "releaseNotes": "Fix release.yml: heredoc notes poza else, żeby EOF nie miał wcięcia po strip YAML.",
+  "versionCode": 72,
+  "versionName": "0.5.59-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.59-nightly.apk",
+  "sha256": "6b037dca8902f39048748cbd4ada4f248281ecdfdbbb5525ea48403749320823",
+  "releaseNotes": "Nightly 0.5.59: bez heredoców w CI — szablony notes, manifest Python, strażnik.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-06T12:12:43Z"
+  "publishedAt": "2026-09-07T10:23:37Z"
 }
