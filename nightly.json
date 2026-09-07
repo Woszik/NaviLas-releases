@@ -1,11 +1,11 @@
 {
-  "versionCode": 73,
-  "versionName": "0.5.60-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.60-nightly.apk",
-  "sha256": "8012a892fb16bcd26f69a4949fa5156ae3b0c15b58894d46af9dc51f78ac21f2",
-  "releaseNotes": "Nightly 0.5.60: drugi klik w zaznaczony pin na mapie odznacza.",
+  "versionCode": 74,
+  "versionName": "0.5.61-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.61-nightly.apk",
+  "sha256": "698075b35d773231fd686086559ef2375553ee0b94a42bf14c9660b21a550b45",
+  "releaseNotes": "Nightly 0.5.61: Porównaj — klik w nazwę na mapę, sticky kolumna etykiet.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-07T10:35:55Z"
+  "publishedAt": "2026-09-07T11:33:26Z"
 }
