@@ -1,11 +1,11 @@
 {
-  "versionCode": 80,
-  "versionName": "0.5.67-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.67-nightly.apk",
-  "sha256": "f8fe4d82ab817e6d2f88fd6019524ac3a48964f461171aa07cddb3e7cf815f89",
-  "releaseNotes": "Nightly 0.5.67: Porównaj bez belki; karta zostaje po obrocie.",
+  "versionCode": 81,
+  "versionName": "0.5.68-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.68-nightly.apk",
+  "sha256": "94f548f30bd57228d638cf5cbc46bc6efb6313cb63d04bd0b1c9a1bec61ec4c3",
+  "releaseNotes": "Nightly 0.5.68: Porównaj — klik nazwy na mapę nie zamyka karty.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-07T20:16:40Z"
+  "publishedAt": "2026-09-07T20:31:32Z"
 }
