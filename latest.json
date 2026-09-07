@@ -1,11 +1,11 @@
 {
-  "versionCode": 71,
-  "versionName": "0.5.58",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.58/navilas-0.5.58.apk",
-  "sha256": "953d731cc054453f566f102576e841d1843cdd84de65238898ee4a91f4ecef86",
-  "releaseNotes": "Release 0.5.58 Beta: parking i postój LP jako cele; NAWIGUJ od OsmAnd; szukanie miejsca po nazwie; Szukaj informacji; auto-paczka zakazów; jasna mapa w nocy (opcja Dark); kanały Nightly/Beta/Final.",
+  "versionCode": 81,
+  "versionName": "0.5.68",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.68/navilas-0.5.68.apk",
+  "sha256": "9ff4ee9108240cd9f1a29fe0af95331de8ca4b35ee831631356378b14bd2ec82",
+  "releaseNotes": "Release 0.5.68 Beta: poziom — jedna belka i karta miejsca z boku (klik pod kartą idzie w mapę); Porównaj jako karta nad listą (treść, przyklejone nazwy, zostaje po obrocie i po skoku na mapę).",
   "channel": "beta",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-06T12:12:44Z"
+  "publishedAt": "2026-09-07T20:49:36Z"
 }
