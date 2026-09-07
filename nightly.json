@@ -2,10 +2,10 @@
   "versionCode": 78,
   "versionName": "0.5.65-nightly",
   "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.65-nightly.apk",
-  "sha256": "0b6cdc9aff46bb3aa29364ba36b2fc80ad2105b07506df92f507ad53219acec4",
+  "sha256": "d778cec3f95ff6f21bec95f90d654f3be9c907991cb4759e20d8ea6340c0165c",
   "releaseNotes": "Nightly 0.5.65: karta POI wrap_content w poziomie; Porównaj overlay z X.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-07T19:06:18Z"
+  "publishedAt": "2026-09-07T19:12:16Z"
 }
