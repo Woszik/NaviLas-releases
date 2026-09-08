@@ -2,10 +2,10 @@
   "versionCode": 82,
   "versionName": "0.5.69-nightly",
   "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.69-nightly.apk",
-  "sha256": "a1d25c7f8bebcf9d6c0aa0338b0fd880c727ac731f7f42b8af68001f3641a83e",
-  "releaseNotes": "F-Droid: kandydat MR !46612 to Beta 0.5.68.",
+  "sha256": "0b88e24ee88cd37a3b9a74edc3ee83ba96ad71e64887bb2c927ce38ff70d1d4a",
+  "releaseNotes": "Docs: bez nazwiska z odpowiedzi BDL w publicznym opisie wniosku.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-08T20:22:09Z"
+  "publishedAt": "2026-09-08T21:40:54Z"
 }
