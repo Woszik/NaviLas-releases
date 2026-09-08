@@ -2,10 +2,10 @@
   "versionCode": 81,
   "versionName": "0.5.68",
   "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/v0.5.68/navilas-0.5.68.apk",
-  "sha256": "9ff4ee9108240cd9f1a29fe0af95331de8ca4b35ee831631356378b14bd2ec82",
+  "sha256": "a17b9003c17f7b4e955b12f3594b3fc3d864c0bd04cd1ea1276d0046ea652758",
   "releaseNotes": "Release 0.5.68 Beta: poziom — jedna belka i karta miejsca z boku (klik pod kartą idzie w mapę); Porównaj jako karta nad listą (treść, przyklejone nazwy, zostaje po obrocie i po skoku na mapę).",
   "channel": "beta",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-07T20:49:36Z"
+  "publishedAt": "2026-09-08T21:45:39Z"
 }
