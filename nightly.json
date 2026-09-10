@@ -1,11 +1,11 @@
 {
-  "versionCode": 82,
-  "versionName": "0.5.69-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.69-nightly.apk",
-  "sha256": "2d4a2a2f841694b99372160a2c39da68b7269068d84d2fd26d4d3711135a3b73",
-  "releaseNotes": "F-Droid: live MR !46612 na commit 1126c89.",
+  "versionCode": 83,
+  "versionName": "0.5.70-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.70-nightly.apk",
+  "sha256": "d370515a0f340aea64c697de3e5413647219e6fd64190b962a4e492a76c47744",
+  "releaseNotes": "Nightly 0.5.70: nowa ikona (świerk i N zamiast pinezki).",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-08T21:58:03Z"
+  "publishedAt": "2026-09-10T19:06:55Z"
 }
