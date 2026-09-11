@@ -1,11 +1,11 @@
 {
-  "versionCode": 83,
-  "versionName": "0.5.70-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.70-nightly.apk",
-  "sha256": "d370515a0f340aea64c697de3e5413647219e6fd64190b962a4e492a76c47744",
-  "releaseNotes": "Nightly 0.5.70: nowa ikona (świerk i N zamiast pinezki).",
+  "versionCode": 84,
+  "versionName": "0.5.71-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.71-nightly.apk",
+  "sha256": "034fff081dd29a41bc63216c68d018cc9e0fac1fadbc802f6bfd8b465254bc8f",
+  "releaseNotes": "Nightly 0.5.71: Czechy przy granicy (OSM, przełącznik) i ikona na pasku.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-10T19:06:55Z"
+  "publishedAt": "2026-09-11T08:10:42Z"
 }
