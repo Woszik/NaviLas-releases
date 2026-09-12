@@ -2,10 +2,10 @@
   "versionCode": 90,
   "versionName": "0.5.77-nightly",
   "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.77-nightly.apk",
-  "sha256": "d11ab484eae432302f67eedd9360d15eaa06862b9ce0fdc2bee452b287cf5f10",
-  "releaseNotes": "Nightly 0.5.77: poprawka eksportu trasy GPX (crash FileProvider).",
+  "sha256": "b1e09ae86cb5f44cc54ab2a963ac6747b361905618d63e84a502cbf705f4e34f",
+  "releaseNotes": "Docs: instrukcja planowania trasy + reguła sync z Issue #1.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-12T11:34:45Z"
+  "publishedAt": "2026-09-12T18:13:11Z"
 }
