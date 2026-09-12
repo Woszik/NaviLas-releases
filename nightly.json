@@ -1,11 +1,11 @@
 {
-  "versionCode": 85,
-  "versionName": "0.5.72-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.72-nightly.apk",
-  "sha256": "e5b784eb78553452ca7a34d757dc91a23428fb2f0d15585f2ece7986a2d0dab4",
-  "releaseNotes": "Nightly 0.5.72: mniejsza ikona na pasku tytułowym.",
+  "versionCode": 86,
+  "versionName": "0.5.73-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.73-nightly.apk",
+  "sha256": "7642946220671f3fe9a0f7d29bf3b63ef9ad544210e1f60b62a8d3b5665612a1",
+  "releaseNotes": "Nightly 0.5.73: wysokość znaku na pasku = litera N.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-12T05:22:16Z"
+  "publishedAt": "2026-09-12T06:00:22Z"
 }
