@@ -1,11 +1,11 @@
 {
-  "versionCode": 89,
-  "versionName": "0.5.76-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.76-nightly.apk",
-  "sha256": "9e1eea073c866ded1c45900a0460bff18b42cf7b40342004cd85bdd4dd2318e8",
-  "releaseNotes": "Nightly 0.5.76: planowanie trasy z OsmAnd (import GPX, pas, waypointy, eksport).",
+  "versionCode": 90,
+  "versionName": "0.5.77-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.77-nightly.apk",
+  "sha256": "d11ab484eae432302f67eedd9360d15eaa06862b9ce0fdc2bee452b287cf5f10",
+  "releaseNotes": "Nightly 0.5.77: poprawka eksportu trasy GPX (crash FileProvider).",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-12T10:14:04Z"
+  "publishedAt": "2026-09-12T11:34:45Z"
 }
