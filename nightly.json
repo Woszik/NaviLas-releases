@@ -2,10 +2,10 @@
   "versionCode": 86,
   "versionName": "0.5.73-nightly",
   "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.73-nightly.apk",
-  "sha256": "7642946220671f3fe9a0f7d29bf3b63ef9ad544210e1f60b62a8d3b5665612a1",
-  "releaseNotes": "Nightly 0.5.73: wysokość znaku na pasku = litera N.",
+  "sha256": "ff01d893f6ff903d363a604d05538d353c1d63deafb2a85cfaaddfaf618dcbea",
+  "releaseNotes": "Add lean Cursor rules; demote next-* from alwaysApply.",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-12T06:00:22Z"
+  "publishedAt": "2026-09-12T06:41:16Z"
 }
