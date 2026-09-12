@@ -1,11 +1,11 @@
 {
-  "versionCode": 88,
-  "versionName": "0.5.75-nightly",
-  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.75-nightly.apk",
-  "sha256": "a0c2f662e187ec3ba6f4d9443e5c171017e52ab02dd31acf10b8397aca8071c1",
-  "releaseNotes": "Nightly 0.5.75: OsmAnd moto bez BRouter (krótka/kręta + realny ETA).",
+  "versionCode": 89,
+  "versionName": "0.5.76-nightly",
+  "apkUrl": "https://github.com/Woszik/NaviLas-releases/releases/download/nightly/navilas-0.5.76-nightly.apk",
+  "sha256": "9e1eea073c866ded1c45900a0460bff18b42cf7b40342004cd85bdd4dd2318e8",
+  "releaseNotes": "Nightly 0.5.76: planowanie trasy z OsmAnd (import GPX, pas, waypointy, eksport).",
   "channel": "nightly",
   "minVersionCode": 1,
   "minAndroidSdk": 26,
-  "publishedAt": "2026-09-12T08:20:26Z"
+  "publishedAt": "2026-09-12T10:14:04Z"
 }
